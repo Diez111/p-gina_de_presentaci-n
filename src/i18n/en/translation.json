@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "title": "Software Developer | Systems Engineering and Electronics Expert",
+    "scroll": "Scroll to continue"
+  },
+  "profile": {
+    "title": "Professional Profile",
+    "description": "I am a developer passionate about open source, with experience in Python, TypeScript, JavaScript, Vue, C++, Rust, Go, HTML, and CSS. Additionally, I study Systems Engineering and I am an Electronics Technician. I handle circuit design and creation (Proteus, KiCad, Arduino, PIC) and have knowledge in electrical installations.",
+    "developer": "Full Stack Developer",
+    "engineer": "Systems Engineer"
+  },
+  "education": {
+    "title": "Education",
+    "electronic": {
+      "title": "Electronics Technician",
+      "description": "Specialized technical training in electronics"
+    },
+    "systems": {
+      "title": "Systems Engineering Student",
+      "description": "Currently pursuing a degree in computer systems"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "viewMore": "View more"
+  },
+  "skills": {
+    "title": "Technologies and Skills",
+    "electronics": "Electronics",
+    "electronicsDesc": "Circuit design and creation, Proteus, KiCad, Arduino, PIC"
+  },
+  "courses": {
+    "title": "Certified Courses"
+  },
+  "contact": {
+    "title": "Contact",
+    "getInTouch": "Get in Touch",
+    "description": "Have a question or proposal? Don't hesitate to reach out directly.",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "you@email.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "What would you like to discuss?",
+    "message": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "send": "Send message"
+  },
+  "chatbot": {
+    "title": "LautiBot",
+    "subtitle": "Virtual Assistant",
+    "welcome": "Hi! I'm LautiBot, your virtual assistant. How can I help you?",
+    "placeholder": "Type your message...",
+    "send": "Send"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

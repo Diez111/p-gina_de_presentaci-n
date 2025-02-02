@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "title": "Desarrollador de Software | Experto en Ingeniería en Sistemas y Electrónica",
+    "scroll": "Desliza para continuar"
+  },
+  "profile": {
+    "title": "Perfil Profesional",
+    "description": "Soy un desarrollador apasionado por el código abierto, con experiencia en Python, TypeScript, JavaScript, Vue, C++, Rust, Go, HTML y CSS. Además, estudio Ingeniería en Sistemas y soy Técnico Electrónico. Manejo diseño y creación de circuitos (Proteus, KiCad, Arduino, PIC) y tengo conocimientos en instalaciones eléctricas.",
+    "developer": "Desarrollador Full Stack",
+    "engineer": "Ingeniero en Sistemas"
+  },
+  "education": {
+    "title": "Educación",
+    "electronic": {
+      "title": "Técnico Electrónico",
+      "description": "Formación técnica especializada en electrónica"
+    },
+    "systems": {
+      "title": "Estudiante de Ingeniería en Sistemas",
+      "description": "En proceso de formación en sistemas computacionales"
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "viewMore": "Ver más"
+  },
+  "skills": {
+    "title": "Tecnologías y Habilidades",
+    "electronics": "Electrónica",
+    "electronicsDesc": "Diseño y creación de circuitos, Proteus, KiCad, Arduino, PIC"
+  },
+  "courses": {
+    "title": "Cursos Certificados"
+  },
+  "contact": {
+    "title": "Contacto",
+    "getInTouch": "Ponte en contacto",
+    "description": "¿Tienes alguna pregunta o propuesta? No dudes en contactarme directamente.",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre completo",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "tu@email.com",
+    "subject": "Asunto",
+    "subjectPlaceholder": "¿Sobre qué quieres hablar?",
+    "message": "Mensaje",
+    "messagePlaceholder": "Escribe tu mensaje aquí...",
+    "send": "Enviar mensaje"
+  },
+  "chatbot": {
+    "title": "LautiBot",
+    "subtitle": "Asistente Virtual",
+    "welcome": "¡Hola! Soy LautiBot, tu asistente virtual. ¿En qué puedo ayudarte?",
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}
