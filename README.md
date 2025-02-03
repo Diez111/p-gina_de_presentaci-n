@@ -1,8 +1,5 @@
 # p-gina_de_presentaci-n
 
-
-# Página de Presentación Personal
-
 Esta es mi página de presentación personal desarrollada con Vue.js. A continuación, se detallan los pasos para instalar y ejecutar el proyecto en un entorno local.
 
 ## Requisitos Previos
