@@ -25,11 +25,9 @@ const Profile = () => {
               <div className="flex flex-wrap gap-4">
                 <div className="flex items-center gap-2 text-blue-600">
                   <Terminal size={20} />
-                  <span>{t('profile.developer')}</span>
                 </div>
                 <div className="flex items-center gap-2 text-purple-600">
                   <Cpu size={20} />
-                  <span>{t('profile.engineer')}</span>
                 </div>
               </div>
             </div>
