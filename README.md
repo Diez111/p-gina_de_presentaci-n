@@ -25,7 +25,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. **Clonar el repositorio**:
 
    ```bash
-  [ git clone https://github.com/tu-usuario/tu-repositorio.git](https://github.com/Diez111/p-gina_de_presentaci-n.git)
+   git clone https://github.com/tu-usuario/tu-repositorio.git](https://github.com/Diez111/p-gina_de_presentaci-n.git)
    cd tu-repositorio
    ```
 
